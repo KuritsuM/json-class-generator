@@ -1,0 +1,19 @@
+{
+    "name": "kuritsum/json-class-generator",
+    "description": "Package for generating JSON class wrapper",
+    "require": {
+        "nikic/php-parser": "5.0.x-dev"
+    },
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "JsonClassGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kuristum"
+        }
+    ],
+    "minimum-stability": "dev"
+}
